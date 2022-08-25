@@ -57,7 +57,7 @@ Ich programmiere ein Nummererratespiel mit C#
 | 2.A |  09.09.2022  | Damian | US 5 |   3x 45min |
 | 3.A |  18.09.2022 | Damian | US 3 | 2x 45min |
 | 4.A |  27.09.2022 | Damian | US 6, 4| 6x 45min |
-Total: 
+Total: 12x 45min
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 

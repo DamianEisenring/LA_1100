@@ -1,25 +1,33 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.3.32804.467
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGuesser", "NumberGuesser.csproj", "{455001DD-4659-4DC2-A146-A0544784DD9C}"
-EndProject
-Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{455001DD-4659-4DC2-A146-A0544784DD9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{455001DD-4659-4DC2-A146-A0544784DD9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{455001DD-4659-4DC2-A146-A0544784DD9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{455001DD-4659-4DC2-A146-A0544784DD9C}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E5548AB2-FBD5-4B5E-A0B8-A739F4B50C15}
-	EndGlobalSection
-EndGlobal
+namespace NumberGuesser
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Random rnd = new Random();
+            int number = rnd.Next(1, 10);
+           
+            Console.Write("Geben sie einzahl zwischen 1-100 ein: ");
+            int eingabe = Convert.ToInt32(Console.ReadLine());
+            int eingabe2;
+             
+            do
+            {
+                Console.Write("Ihre Zahl ist leider falsch versuchen sie es erneut: ");
+                eingabe2 = Convert.ToInt32(Console.ReadLine());
+                if (eingabe > number || eingabe2 > number)
+                {
+                    Console.WriteLine(eingabe2 + " ihre Zahl ist zu gross versuche es kleiner");
+                }else if(eingabe < number || eingabe2 < number)
+                {
+                    Console.WriteLine(eingabe2 + " ihre Zahl ist zu klein versuche es grösser"); 
+                }
+                
+                if(eingabe2 == number){
+                    Console.WriteLine("Ihre Zahl " + number + " ist richtig");
+                }
+
+            } while (eingabe != number && eingabe2 != number);
+        }
+    }
+}

@@ -6,9 +6,9 @@ Eisenring Damian
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   |  |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 01.09.2022 | 0.0.1   |Es wird jetzt eine Zahl generiert und der User kann sie erraten mit Hilfe von Higher und Lower.|
+| 08.09.2022| 1.0.01  | Falsche Eingaben werden jetzt erkannt und die Zahlen sind nun auch begrenzt. |
+| 08.09.2022| 1.0.02   |Die Fehlermeldungen haben nun Farbe das sie erkannt werden|
 
 ## 1 Informieren
 

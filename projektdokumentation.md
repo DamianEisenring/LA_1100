@@ -9,6 +9,7 @@ Eisenring Damian
 | 01.09.2022 | 0.0.1   |Es wird jetzt eine Zahl generiert und der User kann sie erraten mit Hilfe von Higher und Lower.|
 | 08.09.2022| 1.0.01  | Falsche Eingaben werden jetzt erkannt und die Zahlen sind nun auch begrenzt. |
 | 08.09.2022| 1.0.02   |Die Fehlermeldungen haben nun Farbe das sie erkannt werden|
+| 08.09l2022| 2.0.01 | Das Programm hat nun ein Menu und man kann nun zwischen spielen, Spielregeln und Exit entscheiden.|
 
 ## 1 Informieren
 
@@ -25,7 +26,8 @@ Ich programmiere ein Nummerratespiel mit C#
 | 3 | Kann     | Qualität | Als ein Benutzer möchte ich Hilfe bekommen nach der ersten Raterunde, damit ich die Zahl früher heraus finden kann. |
 | 4 | Kann | Qualität | Als ein Benutzer möchte ich wissen wie viele Versuche ich gebraucht habe, damit ich mich immer steigern kann. |
 | 5 | Muss | Funktional | Als ein Computer möchte ich Fehlereingaben erkennen können, damit ich Ihm das Anzeigen kann. |
-| 6 | Kann | Qualitätsanforderung| Als ein Benutzer möchte ich einen Fehler erkennen, damit ich weiss obs Higher (z.b Grün) ist.|
+| 6 | Kann | Qualitätsanforderung| Als ein Benutzer möchte ich Hilfe bekommen bei der Erkennung von Nachrichten, damit ich weiss ob es eine Fehlermeldung ist oder etwas anderes.|
+| 7 | Kann | Qualitätsanforderung| Als ein Benutzer möchte ich ein Menu haben, damit ich mich besser Orientieren kann im Programm.|
 .
 
 ### 1.3 Testfälle

@@ -60,7 +60,7 @@ Ich programmiere ein Nummerratespiel mit C#
 | 2.A |  09.09.2022  | Damian | Ich werde programmieren, dass ein falscher Input erkannt wird und eine Fehlermeldung ausgegeben wird.|   3x 45min |
 | 3.A |  18.09.2022 | Damian | Ich werde programmieren, dass der User hilfe kriegt beim erraten der Zahl mit Higher/Lower | 2x 45min |
 | 4.A |  27.09.2022 | Damian | Ich werde programmieren, dass Texte nicht mehr nur in gleicher Farbe sind, sondern genau deffiniert| 2x 45min |
-| 5.A |  27.09.2022 | Damian | Ich werde programmieren, dass ein Menu entsteht
+| 5.A |  27.09.2022 | Damian | Ich werde programmieren, dass ein Menu entsteht. |3x 45min|
 Total: 12x 45min
 
 
@@ -75,7 +75,11 @@ Total: 12x 45min
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |  01.09.2022     | Damian Eisenring | 2x 45min    |  2x 45min |
 | 1.B |  01.09.2022     | Damian Eisenring | 2x 45min    |   45min |
-| 2.A  |  08.09.2022     | Damian Eisenring | 4x 45min    |  3x 45min |
+| 2.A  |  08.09.2022     | Damian Eisenring | 3x 45min    |  2x 45min |
+| 3.A  |  08.09.2022     | Damian Eisenring | 2x 45min    |  60min |
+| 4.A  |  15.09.2022     | Damian Eisenring | 2x 45min    |  30min |
+| 5.A  |  15.09.2022     | Damian Eisenring | 3x 45min    |  3x 45min |
+
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.

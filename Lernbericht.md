@@ -11,7 +11,7 @@ Ich habe gelernt, wie ich mit Try und Catch Fehler erkennen kann.
 
 ## Beschreibung
 
-Mit Try und Catch verhindern kannst du Fehler, also Exceptions (Ausnahmen) erkennen und diesen dann mit throw behandeln, wenn du mit einer spezifischen Exception eine andere Ausgabe geben willst, als wenn es nur catch hat dann hat es für jede Exception immer die gleiche Rückgabe. Heisst catch enthält immmer eine Sonderrückmeldung falls eine Exception auftritt. Mit throw kann man die Exception spezifizieren und so andere Nachrichten machen, dass es genauere Nachrichten gibt. 
+Mit Try und Catch verhindern kannst du Fehler, also Exceptions (Ausnahmen) erkennen und diesen dann mit throw behandeln, wenn du mit einer spezifischen Exception eine andere Ausgabe geben willst, als wenn es nur catch hat dann hat es für jede Exception immer die gleiche Rückgabe. Heisst catch enthält immmer eine Sonderrückmeldung falls eine Exception auftritt. Mit throw kann man die Exception spezifizieren und so andere Nachrichten machen, dass es genauere Nachrichten gibt. Mit Try und Catch kann man jetzt auch Zahlen begrenzen ohne das Programm gleich abstürzt ohne eine Nachricht zu Hinterlassen.
 
 ```csharp 
 	do
@@ -34,7 +34,7 @@ Mit Try und Catch verhindern kannst du Fehler, also Exceptions (Ausnahmen) erken
 		{
 		 	Console.WriteLine("Error 404");
 		}
-            } while (true);	    
+            } while (true);	    //die Do-While schleifen macht, dass der User im wieder Zahlen eingeben kann.
 ```
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/111045919/191697705-330f816a-0f93-4d0b-b803-167da3685d9d.gif)
 

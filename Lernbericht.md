@@ -11,7 +11,19 @@ Ich habe gelernt, wie ich mit Try und Catch Fehler erkennen kann.
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+```csharp 
+	try
+	{
+		Console.Write("Geben sie eine Zahl ein: ")
+		int eingabe = Convert.Toint32(Console.Readline());
+	}
+	catch
+	{
+		Console.WriteLine("Ungültige Eingabe");
+	}
+```
+	
+
 
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme

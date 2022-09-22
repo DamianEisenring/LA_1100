@@ -35,13 +35,16 @@ Ich programmiere ein Nummerratespiel mit C#
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Zahl wird generiert   |  Zahl eingabe      |   Zahl ausgabe  |
-| 2.1  | Zahl eingegeben (weite verkürzt)      |  Zahl  | Resultat    |
+| 2.1  | Zahl eingegeben (weite verkürzt)      |  Zahl  | Resultat, ob weiter gespielt wird.|
 | 3.1  |  Zahl wird generiert | 80 |  Zahl ist zu gross |
 | 3.2  |  Zahl wird generiert |   15 |  Zahl ist zu klein |
 | 4.1  |  Zahl wird erraten | 50 (X) | Anzahl Versuche(Y): Y  |
-| 5.1  | Programm startet| sechsunddreissig |  Ist keine Zahl!  |
+| 5.1  | Programm startet| sechsunddreissig(allgemein Zeichen/Buchstaben) |  Ungültige Eingabe!  |
 | 6.1  | Zahl wird generiert  | 50   |  Die Zahl ist zu gross/klein, versuche es grösser/kleiner  |
 | 7.1  | Zahl wurde erraten |   35   | Gratuliere du hast es geschafft!(in Grün)|
+| 8.1  | Programm wird gestartet | 1 | Das Programm wird gespielt|
+| 8.2  | Programm wird gestartet | 2 | Die Regeln des Spieles werden aufgerufen|
+| 8.3  | Programm wird gestartet | 3 | Das Programm wird beendet|
 | ...  |              |         |                   |
 
 
@@ -82,7 +85,7 @@ Total: 12x 45min
 
 
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
@@ -90,13 +93,20 @@ Total: 12x 45min
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| 1.1  |       |          |        |
-| 1.1  |       |          |        |
-| 1.1  |       |          |        |
+| 1.1  |22.09.2022| funktioniert|Damian Eisenring|
+| 2.1  |22.09.2022| funktioniert|Damian Eisenring|
+| 3.1  |22.09.2022| funktioniert|Damian Eisenring|
+| 3.2  |22.09.2022| funktioniert|Damian Eisenring|
+| 4.1  |22.09.2022| funktioniert|Damian Eisenring|
+| 5.1  |22.09.2022| funktioniert|Damian Eisenring|
+| 6.1  |22.09.2022| funktioniert|Damian Eisenring|
+| 7.1  |22.09.2022| funktioniert|Damian Eisenring|
+| 8.1  |22.09.2022| funktioniert|Damian Eisenring|
+| 8.2  |22.09.2022| funktioniert|Damian Eisenring|
+| 8.3  |22.09.2022| funktioniert|Damian Eisenring|
 | ...  |       |          |        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Ich konnte alles so Programmieren, wie ich es wollte und das Programm funktioniert mit allen User Stories.
 
 
 ## 6 Auswerten

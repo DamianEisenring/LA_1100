@@ -109,4 +109,4 @@ Ich konnte alles so Programmieren, wie ich es wollte und das Programm funktionie
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+Lernbericht: https://github.com/DamianEisenring/LA_1100/blob/main/Lernbericht.md

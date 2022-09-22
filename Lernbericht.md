@@ -20,7 +20,7 @@ Mit Try und Catch verhindern kannst du Fehler, also Exceptions (Ausnahmen) erken
                 {
                     Console.Write("Geben sie eine Zahl ein: ");
                     int eingabe = Convert.ToInt32(Console.ReadLine());
-		    if(eingabe < 1 || eingabe > 10)
+		    if(eingabe < 1 || eingabe > 10) //Hier wird die Zahlen ausgabe begrenzt
 		    {
 		    	throw new FormatException();
 		    }

@@ -15,7 +15,7 @@ Ich habe gelernt, wie ich mit Try und Catch Fehler erkennen kann.
 	try
 	{
 		Console.Write("Geben sie eine Zahl ein: ")
-		int eingabe = Convert.Toint32(Console.Readline());
+		int eingabe = Convert.ToInt32(Console.Readline());
 	}
 	catch
 	{

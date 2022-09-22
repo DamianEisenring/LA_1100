@@ -26,6 +26,8 @@ Ich habe gelernt, wie ich mit Try und Catch Fehler erkennen kann.
                 }
             } while (true);
 ```
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/111045919/191690569-7090981e-efb9-44c6-81ef-0a9b270c04b4.gif)
+
 	
 
 

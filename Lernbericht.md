@@ -34,10 +34,10 @@ Mit Try und Catch verhindern kannst du Fehler, also Exceptions (Ausnahmen) erken
 		{
 		 	Console.WriteLine("Error 404");
 		}
-            } while (true);	    //die Do-While schleifen macht, dass der User im wieder Zahlen eingeben kann.
+            } while (true);	    //Die Do-While schleifen macht, dass der User im wieder Zahlen eingeben kann.
 ```
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/111045919/191697705-330f816a-0f93-4d0b-b803-167da3685d9d.gif)
-
+Hier wird dargestellt, welche Fehlernachricht
 	
 
 

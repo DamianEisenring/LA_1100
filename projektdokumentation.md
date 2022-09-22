@@ -7,9 +7,9 @@ Eisenring Damian
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 01.09.2022 | 0.0.1   |Es wird jetzt eine Zahl generiert und der User kann sie erraten mit Hilfe von Higher und Lower.|
-| 08.09.2022| 1.0.01  | Falsche Eingaben werden jetzt erkannt und die Zahlen sind nun auch begrenzt. |
-| 08.09.2022| 1.0.02   |Die Fehlermeldungen haben nun Farbe das sie erkannt werden|
-| 08.09l2022| 2.0.01 | Das Programm hat nun ein Menu und man kann nun zwischen spielen, Spielregeln und Exit entscheiden.|
+| 08.09.2022| 0.0.02  | Falsche Eingaben werden jetzt erkannt und die Zahlen sind nun auch begrenzt. |
+| 15.09.2022| 0.0.03   |Die Fehlermeldungen haben nun Farbe das sie erkannt werden|
+| 22.09l2022| 1.0.0| Das Programm hat nun ein Menu und man kann nun zwischen spielen, Spielregeln und Exit entscheiden.|
 
 ## 1 Informieren
 
@@ -91,18 +91,13 @@ Total: 12x 45min
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
 | 1.1  |       |          |        |
+| 1.1  |       |          |        |
+| 1.1  |       |          |        |
+| 1.1  |       |          |        |
 | ...  |       |          |        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 

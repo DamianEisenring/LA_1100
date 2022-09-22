@@ -37,7 +37,7 @@ Mit Try und Catch verhindern kannst du Fehler, also Exceptions (Ausnahmen) erken
             } while (true);	    //Die Do-While schleifen macht, dass der User im wieder Zahlen eingeben kann.
 ```
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/111045919/191697705-330f816a-0f93-4d0b-b803-167da3685d9d.gif)
-#### Hier wird dargestellt, welche Fehlernachricht wann kommt und das die Zahlen begrenzt worden sind.
+#### Hier wird dargestellt, welche Fehlernachricht wann kommt und dass die Zahlen begrenzt worden sind.
 
 	
 ## Verifikation
@@ -46,8 +46,8 @@ Ich habe einem Laien erklärt, was Try und Catch ist und wie es die Person anwen
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Ich ging sehr motiviert an dieses Projekt ran und kam somit sehr gut voran.
 
-👎 und etwas, was nicht gut lief.
+Weil ich so gut vorankam, hatte ich nach einer Zeit das Problem, dass ich schon fertig war mit dem Programm und im Homeschooling Unterricht in der letzten Woche schon fertig war mit dem Programm.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Ich würde nächstes mal bei der Planung mehr Zeit investieren, dass ich nächstes mal mehr User Stories habe und mehr umsetzten kann und dann eher etwas nicht gemacht habe, anstatt in der Programmierzeit dann neue Ideen zu suchen.

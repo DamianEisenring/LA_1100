@@ -11,14 +11,14 @@ Ich habe gelernt, wie ich mit Try und Catch Fehler erkennen kann.
 
 ## Beschreibung
 
-Mit Try und Catch verhindern kannst du Fehler, also Exceptions (Ausnahmen) erkennen und diesen dann mit throw behandeln, wenn du mit einer spezifischen Exception eine andere Ausgabe geben willst, als wenn es nur catch hat dann hat es für jede Exception immer die gleiche Rückgabe. Heisst catch enthält immmer eine Sonderrückmeldung falls eine Exception auftritt. Mit throw kann man die Exception spezifizieren
+Mit Try und Catch verhindern kannst du Fehler, also Exceptions (Ausnahmen) erkennen und diesen dann mit throw behandeln, wenn du mit einer spezifischen Exception eine andere Ausgabe geben willst, als wenn es nur catch hat dann hat es für jede Exception immer die gleiche Rückgabe. Heisst catch enthält immmer eine Sonderrückmeldung falls eine Exception auftritt. Mit throw kann man die Exception spezifizieren und so andere Nachrichten machen, dass es genauere Nachrichten gibt. 
 
 ```csharp 
 	do
             {
                 try
                 {
-                    Console.Write("Geben sie eine Zahl ein von 1-10: ");
+                    Console.Write("Geben sie eine Zahl ein: ");
                     int eingabe = Convert.ToInt32(Console.ReadLine());
 		    if(eingabe < 1 || eingabe > 10)
 		    {
@@ -28,13 +28,13 @@ Mit Try und Catch verhindern kannst du Fehler, also Exceptions (Ausnahmen) erken
                 }
                 catch(FormatException)
                 {
-			Console.WriteLine("Error 101");
+			Console.WriteLine("Üngülitge Eingabe");
                 }
 		catch
 		{
-		 	Console.WriteLine("Error 404")
+		 	Console.WriteLine("Error 404");
 		}
-            } while (true);
+            } while (true);	    
 ```
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/111045919/191690569-7090981e-efb9-44c6-81ef-0a9b270c04b4.gif)
 

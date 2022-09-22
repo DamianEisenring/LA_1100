@@ -62,15 +62,15 @@ Ich programmiere ein Nummerratespiel mit C#
 | 1.B  | 02.09.2022| Damian | Ich werde programmieren, dass der User einen Input immer wieder machen kann  | 2x 45min |
 | 2.A |  09.09.2022  | Damian | Ich werde programmieren, dass ein falscher Input erkannt wird und eine Fehlermeldung ausgegeben wird.|   3x 45min |
 | 3.A |  18.09.2022 | Damian | Ich werde programmieren, dass der User hilfe kriegt beim erraten der Zahl mit Higher/Lower | 2x 45min |
-| 4.A |  27.09.2022 | Damian | Ich werde programmieren, dass Texte nicht mehr nur in gleicher Farbe sind, sondern genau deffiniert| 2x 45min |
-| 5.A |  27.09.2022 | Damian | Ich werde programmieren, dass ein Menu entsteht. |3x 45min|
+| 4.A |  22.09.2022 | Damian | Ich werde programmieren, dass Texte nicht mehr nur in gleicher Farbe sind, sondern genau deffiniert| 2x 45min |
+| 5.A |  22.09.2022 | Damian | Ich werde programmieren, dass ein Menu entsteht. |3x 45min|
 Total: 12x 45min
 
 
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Ich habe mich entschieden alle User Stories zu machen.
 
 ## 4 Realisieren
 
@@ -84,10 +84,8 @@ Total: 12x 45min
 | 5.A  |  15.09.2022     | Damian Eisenring | 3x 45min    |  3x 45min |
 
 
-
-
-
 ## 5 Kontrollieren
+
 
 ### 5.1 Testprotokoll
 

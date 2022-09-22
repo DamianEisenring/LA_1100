@@ -37,18 +37,12 @@ Mit Try und Catch verhindern kannst du Fehler, also Exceptions (Ausnahmen) erken
             } while (true);	    //Die Do-While schleifen macht, dass der User im wieder Zahlen eingeben kann.
 ```
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/111045919/191697705-330f816a-0f93-4d0b-b803-167da3685d9d.gif)
-Hier wird dargestellt, welche Fehlernachricht
-	
+#### Hier wird dargestellt, welche Fehlernachricht wann kommt und das die Zahlen begrenzt worden sind.
 
-
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 	
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Ich habe einem Laien erklärt, was Try und Catch ist und wie es die Person anwenden kann.
 
 # Reflektion zum Arbeitsprozess
 
